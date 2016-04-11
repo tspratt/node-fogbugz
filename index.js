@@ -97,7 +97,7 @@ var DEFAULT_COLS = [
  * Default maximum number of cases to pull.
  * @type {number}
  */
-var DEFAULT_MAX = 20;
+var DEFAULT_MAX = 200;
 
 /**
  * Parses XML and returns JSON.
