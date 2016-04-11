@@ -8,7 +8,7 @@
     "email": "boneskull@boneskull.com",
     "url": "https://boneskull.com"
   },
-  "repository": "git://github.com/boneskull/node-fogbugz.git",
+  "repository": "git://github.com/tspratt/node-fogbugz.git",
   "devDependencies": {
     "chai": "^3.2.0",
     "chai-as-promised": "^5.1.0",
